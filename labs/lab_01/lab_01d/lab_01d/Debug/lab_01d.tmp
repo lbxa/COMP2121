@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\Debug\lab_01d.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab_01d.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab_01d.map</FILE>
+  <FILE>lab_01d.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <int_arr_data><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>22</LINE></int_arr_data>
+  <new_int_arr><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>23</LINE></new_int_arr>
+  <start><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>29</LINE></start>
+  <int_arr><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>30</LINE></int_arr>
+  <load_array_loop><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>44</LINE></load_array_loop>
+  <load_array_end><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>52</LINE></load_array_end>
+  <load_sorted_value><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>65</LINE></load_sorted_value>
+  <insert_val><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>72</LINE></insert_val>
+  <continue_loop><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>76</LINE></continue_loop>
+  <load_sorted_end><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>83</LINE></load_sorted_end>
+  <halt><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_01\lab_01d\lab_01d\main.asm</FILE><LINE>86</LINE></halt>
+ </LABELS>
+</ASSEMBLER_INFO>
