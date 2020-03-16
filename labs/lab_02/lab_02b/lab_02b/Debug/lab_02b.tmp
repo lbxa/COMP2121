@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\Debug\lab_02b.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab_02b.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab_02b.map</FILE>
+  <FILE>lab_02b.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <array_result><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>38</LINE></array_result>
+  <main><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>48</LINE></main>
+  <array><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>42</LINE></array>
+  <queue><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>43</LINE></queue>
+  <array_loop><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>57</LINE></array_loop>
+  <queue_loop><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>83</LINE></queue_loop>
+  <insert_request><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>102</LINE></insert_request>
+  <queue_loop_exit><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>93</LINE></queue_loop_exit>
+  <halt><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>95</LINE></halt>
+  <insert_sorted><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>115</LINE></insert_sorted>
+  <dont_insert><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>151</LINE></dont_insert>
+  <insert><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>127</LINE></insert>
+  <end_insert><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>145</LINE></end_insert>
+  <mov_up><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>136</LINE></mov_up>
+  <mov_finished><FILE>C:\Users\lucas\Documents\COMP2121\labs\lab_02\lab_02b\lab_02b\main.asm</FILE><LINE>148</LINE></mov_finished>
+ </LABELS>
+</ASSEMBLER_INFO>
