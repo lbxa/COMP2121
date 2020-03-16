@@ -1,5 +1,5 @@
 ; #########################################################
-; lab_01d.asm
+; lab_02b.asm
 ; #########################################################
 ; Program which implements lab_01d into a function, which
 ; is then called on specific values within a queue
