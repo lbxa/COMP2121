@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\Debug\reverse_string.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>reverse_string.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>reverse_string.map</FILE>
+  <FILE>reverse_string.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <msg_data><FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\main.asm</FILE><LINE>20</LINE></msg_data>
+  <start><FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\main.asm</FILE><LINE>26</LINE></start>
+  <msg><FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\main.asm</FILE><LINE>62</LINE></msg>
+  <get_length><FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\main.asm</FILE><LINE>45</LINE></get_length>
+  <loop><FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\main.asm</FILE><LINE>36</LINE></loop>
+  <loop_1><FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\main.asm</FILE><LINE>50</LINE></loop_1>
+  <exit_loop><FILE>C:\Users\lucas\Documents\COMP2121\labs\reverse_string\reverse_string\main.asm</FILE><LINE>57</LINE></exit_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
